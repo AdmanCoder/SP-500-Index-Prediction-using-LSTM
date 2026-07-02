@@ -2,8 +2,11 @@ Hey!
 This is the repository for my ECO 723 course project. 
 The goal of this project was to replicate and extend a 2022 academic paper on forecasting the S&P 500.
 Instead of just throwing a standard neural network at raw price data, I pulled in 10 different macroeconomic and technical indicators (like the VIX, interest rates, and unemployment) and used a Hidden Markov Model (HMM) to classify broader market regimes to give the deep learning model actual economic context.
+
+
 Project Summary
 Here is the high-level breakdown of what this project accomplished:
+
 Objective:
 To optimise S&P 500 forecasts using macro & technical features to improve reliability in volatile markets.
 
