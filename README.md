@@ -5,6 +5,7 @@ Instead of just throwing a standard neural network at raw price data, I pulled i
 
 
 Project Summary
+
 Here is the high-level breakdown of what this project accomplished:
 
 Objective:
